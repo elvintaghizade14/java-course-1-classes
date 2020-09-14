@@ -1,0 +1,5 @@
+Introduction / Software setup
+    a.	Introduction to ICT (Career plan)
+    b.	What is programming?
+    c.	What are programming languages?
+    d.	What is VCS (Git / GitHub)?

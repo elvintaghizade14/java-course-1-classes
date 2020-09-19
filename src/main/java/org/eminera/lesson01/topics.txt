@@ -1,5 +1,13 @@
 Introduction / Software setup
-    a.	Introduction to ICT (Career plan)
-    b.	What is programming?
-    c.	What are programming languages?
-    d.	What is VCS (Git / GitHub)?
+    - Introduction to ICT (Career plan)
+    - What is programming?
+    - What are programming languages?
+    - What is VCS (Git / GitHub)?
+
+    - code retaining and Git architecture (local / remote, clone / fetch / pull / commit / push)
+
+
+soft skills:
+------------
+- private GitHub profile (you should have a place to store your code and be able to show it)
+- private StackOverflow Profile (learn how to search, how to ask, how to answer, be succinct, aptly and concise)

@@ -1,0 +1,14 @@
+1. intro
+2. install applications (software-to-install.txt)
+3. JDK install
+4. First application "Hello World"
+
+hard skills:
+------------
+- running / compiling / bytecode
+- JVM / JRE / JDK differences
+- software architecture: input-process-output
+
+soft skills:
+------------
+- question asking (don't be shy to ask a question)

@@ -1,0 +1,13 @@
+Java Basics
+    a. Java syntax (“Hello, World!” in Java)
+    b. Application lifecycle: writing, compiling (to bytecode), running
+    c. Application entry point (public static void main (String... args))
+    d. Print to console (System.out.println() function)
+    e. Java basics (Data types, Variables, Operations)
+    f. Operators
+        I. Arithmetic operators
+        II. Relational Operators
+        III. Logical Operators
+        IV. Assignment Operators
+        V. Miscellaneous Operators
+    g. Practice: “Problem solving”

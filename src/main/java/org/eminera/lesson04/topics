@@ -1,0 +1,11 @@
+Control Flow
+    a. Conditional statements (if/else/else if/switch-case)
+    b. Loops (for/while/do-while/enhanced for loop)
+    c. Types of variables
+        I. Instance variables
+        II. Local variables
+        III. Static variables
+    d. Break/continue statements
+    e. Nested conditions and loops
+    f. Input from keyboard (Scanner)
+    g. Practice: “Basic calculator app”

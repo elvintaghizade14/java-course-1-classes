@@ -1,0 +1,3 @@
+loops
+nested conditions and loops
+casting - narrowing and widening

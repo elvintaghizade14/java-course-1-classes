@@ -1,0 +1,7 @@
+methods
+    - parametrli
+    - parametrsiz
+    - return - li
+    - return -siz (void)
+    - static
+    - non-static

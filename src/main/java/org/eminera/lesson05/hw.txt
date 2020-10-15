@@ -1,0 +1,29 @@
+These are your homeworks:
+
+Aşağıdakı simvolları indiyə kimi keçdiyimiz istənilən vasitə ilə console-da çapa verən proqram yazın:
+
+1)
+#
+##
+###
+###
+####
+#####
+
+2)
+#####
+####
+###
+##
+№
+
+3)
+#####
+ ####
+  ###
+   ##
+    #
+
+Aşağıdakı məsələləri həll edin:
+1) 1-dən 100-ə kimi cüt ədədlərin sayını və cəmini tapan console proqramı yazın.
+2) 1-dən 100-ə kimi tək ədədlərin sayını və cəmini tapan console proqramı yazın.

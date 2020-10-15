@@ -1,0 +1,5 @@
+1) https://www.hackerrank.com/challenges/java-output-formatting/problem
+2) https://www.hackerrank.com/challenges/java-loops-i/problem
+3) https://www.hackerrank.com/challenges/java-loops/problem
+4) https://www.hackerrank.com/challenges/java-datatypes/problem
+5) https://www.hackerrank.com/challenges/java-end-of-file/problem

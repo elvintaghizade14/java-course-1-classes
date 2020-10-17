@@ -34,7 +34,7 @@
 
 ## `QUESTIONS`
 1. Which `method` is located in the main class of any Java program and serves as an entry point to the program?
-2. What is the difference between `System.out.print()` and `System.out.println()`?
+2. What is the difference between `System.out.print()` && `System.out.println()` && `System.out.printf()`?
 3. A `variable` in Java is ... .
 4. How can you create a `single-line comment` in Java?
 5. How can you create a `multi-line comment` in Java?

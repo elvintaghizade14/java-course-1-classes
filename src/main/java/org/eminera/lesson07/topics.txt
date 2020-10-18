@@ -1,0 +1,6 @@
+Arrays
+  - define
+  - initialize
+  - indexing
+  - one dimensional arrays and thier characteristics
+  - practice

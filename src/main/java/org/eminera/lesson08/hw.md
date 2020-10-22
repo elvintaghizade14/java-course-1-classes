@@ -1,0 +1,1 @@
+Qeyd: 22-10-2020 tarixinin sonuna kimi elave olunacaq!

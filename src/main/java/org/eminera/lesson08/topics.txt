@@ -1,0 +1,5 @@
+Arrays
+  - Homework +
+  - One and more dimensional array characteristics +-
+  - Memory management in Java, Stack and Heap, Garbage Collector
+  - Practice

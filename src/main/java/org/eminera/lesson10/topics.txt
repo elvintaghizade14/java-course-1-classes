@@ -1,0 +1,7 @@
+- Strings
+    - Basics
+    - Objects in java
+    - References
+    - Pass-by-value & Pass-by-reference
+    - Memory management in Java, Stack and Heap, Garbage Collector
+    - String Pool

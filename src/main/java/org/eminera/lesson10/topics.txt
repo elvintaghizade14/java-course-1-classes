@@ -5,3 +5,9 @@
     - Pass-by-value & Pass-by-reference
     - Memory management in Java, Stack and Heap, Garbage Collector
     - String Pool
+
+- Warmup
+    x = 1 -> y = ?
+    int y = ++x * 5 / x-- + --x;
+
+    - Order of Operators

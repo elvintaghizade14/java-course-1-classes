@@ -59,7 +59,7 @@ public class FactorialApp {
   }
 
   private static long factorialtr(int num, long acc) {
-    if (num == 0 || num == 1) return 1L;                // base condition
+    if (num == 0 || num == 1) return acc;                     // base condition
     return factorialtr(num - 1, acc * (num - 1));    // 120
   }
 

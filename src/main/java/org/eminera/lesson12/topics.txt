@@ -1,0 +1,8 @@
+- Default values (Primitive & Reference types) +
+- String concatenation
+    - "+"
+    - StringBuilder
+    - StringBuffer
+    - Pros-and-cons
+- Debug +
+- Practice (Problem Solving)

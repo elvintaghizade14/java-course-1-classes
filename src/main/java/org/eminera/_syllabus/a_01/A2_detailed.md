@@ -24,11 +24,11 @@
   - [shortcuts](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
   - preferences
   - project settings
-- [first application "Hello World"](../../lesson02/HelloWorldApp.java)
+- [first application "Hello World"](../../basic/lesson02/HelloWorldApp.java)
 
 ## Lesson 3&4&5
 
-- variables [declaration](../../lesson03/DataTypes.java)
+- variables [declaration](../../basic/lesson03/DataTypes.java)
   - final
   - mutable / immutable
 - data types

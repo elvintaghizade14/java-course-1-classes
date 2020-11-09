@@ -1,15 +1,15 @@
  - Object-Oriented Programming (OOP)
     - Object and class
     - Code conventions
-    - Access modifiers – Encapsulation
-    - References/Garbage collectors
     - Pass by value/reference
-    - Static and non-static
     - Class loading
     - Constructors
+    - Static and non-static
+    - toString()
+    - Access modifiers – Encapsulation
+    - References/Garbage collectors
     - Inheritance and Polymorphism
     - Keywords: this and super
     - Wrapper types
     - Overriding and Overloading
     - equals() and hashcode()
-    - toString()

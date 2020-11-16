@@ -1,0 +1,11 @@
+ - OOP (2)
+    - Constructors
+    - References/Garbage collectors
+    - Static and non-static
+    - Keywords: this and super
+    - Access modifiers – Encapsulation
+    - toString()
+    - Overriding and Overloading
+    - equals() and hashcode()
+    - Wrapper types
+    - Inheritance and Polymorphism

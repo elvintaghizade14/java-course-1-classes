@@ -26,7 +26,7 @@ public class MoreThan2point5 {
     System.out.println(result);
   }
 
-  public static void main(String[] args) {
+  public static void mainV2(String[] args) {
     // 1. input
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
@@ -41,6 +41,22 @@ public class MoreThan2point5 {
             .orElse("Not Found");
 
     // 3. output
+    System.out.println(result);
+  }
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int n = sc.nextInt();
+
+    String result = "Not Found";
+    for (int i = 1; i <= n; i++) {
+      double number = sc.nextDouble();
+      if (number <= 2.5) {
+        result = String.format("%d %.2f", i, number);
+        break;
+      }
+    }
+
     System.out.println(result);
   }
 }

@@ -6,10 +6,15 @@ public class PersonApp {
 //    System.out.println(elvin.pin);
     System.out.println(elvin.name);
     System.out.println(elvin.age);
-    System.out.println(elvin.getPin());
+
+//    elvin.pin = "321cba";
+
+//    System.out.println(elvin.pin);
 
 
     /*
+    "ENCAPSULATION"
+
     sizce pin her kese aciq olmasi duzgundurmu?
     access modifiers   -> field, method, class
 
@@ -19,6 +24,14 @@ public class PersonApp {
     4. "---"        -> default
 
     GETTER-SETTER
+     */
+
+    /*
+    Object-Oriented Programming (OOP):
+      1. Encapsulation
+      2. Inheritance
+      3. Polymorphism
+      4. Abstraction
      */
   }
 }

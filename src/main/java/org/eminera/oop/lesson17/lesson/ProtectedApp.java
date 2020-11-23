@@ -1,4 +1,4 @@
-package org.eminera.oop.lesson17.reading;
+package org.eminera.oop.lesson17.lesson;
 
 import org.eminera.oop.lesson17.lesson.enc.Person;
 

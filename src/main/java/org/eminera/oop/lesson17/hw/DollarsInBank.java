@@ -16,6 +16,9 @@ public class DollarsInBank {
   }
 
   private static int getAge(long s) {
+    // 1999 -> 0 -> 0                     -> 0
+    // 2000 -> 1 -> 1                     -> 1
+    // 2001 -> 2 -> 4 = 1 * 2 + (1+1)     -> 5 = 0 + 1 + 4
     int age = 1;
     long amount = 1;
     long previous = 1;

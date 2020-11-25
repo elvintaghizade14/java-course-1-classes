@@ -33,6 +33,7 @@ public class NumberInReverseOrder {
   }
 
   public static String getReversedS(long n) {
+//    1 -> "1"
     return new StringBuilder(String.valueOf(n)).reverse().toString();
   }
 }

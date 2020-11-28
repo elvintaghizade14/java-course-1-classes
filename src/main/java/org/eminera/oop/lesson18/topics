@@ -1,6 +1,6 @@
- - OOP (4)
-    - Inheritance
-    - Keywords: this and super
+ - OOP (5)
+    - Inheritance/Polymorphism
+    - Enum
     - Overriding and Overloading
     - toString()
     - equals() and hashcode()

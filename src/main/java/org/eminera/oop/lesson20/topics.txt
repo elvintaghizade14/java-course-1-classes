@@ -1,0 +1,16 @@
+ - interfaces
+ - S.O.L.I.D.:
+    - Single responsibility
+    - Open-close principle
+    - Liskov subs
+    - Interface segregation
+    - Dependency inversion -> IoC
+
+ - "Software Development and Design Principles"
+    - SOLID
+    - DRY
+    - DIY
+    - KISS
+    - YAGNI
+    - ...
+    - ...

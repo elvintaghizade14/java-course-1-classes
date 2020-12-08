@@ -1,5 +1,12 @@
  - Exceptions
- - File IO
- - File NIO
- - Java Date-Time
-    * Intro to JAVA-8 (advice)
+ - File IO&NIO
+ - Java Date-Time API
+
+ * Intro to JAVA-8 (advice)
+    - Stream
+    - Optional
+    - Functional Programming
+
+ remotes:
+    https://github.com/elvintaghizade14/java-io/tree/master/src/main/java/io
+    https://github.com/elvintaghizade14/ultimate8

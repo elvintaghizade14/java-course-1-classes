@@ -1,14 +1,14 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
 ## `READING`
-- JAVA #3 - BASIC (obligatory)
+- JAVA #7 - BASIC (obligatory)
     - [Java enums](https://www.w3schools.com/java/java_enums.asp)
     - [Objects life cycle](https://www.dummies.com/programming/java/what-is-the-life-cycle-of-an-object-in-java/)
     - [Stacks and queues](https://introcs.cs.princeton.edu/java/43stack/)
     - [Heap vs Stack](https://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
     - [Unit testing with JUnit](https://www.vogella.com/tutorials/JUnit/article.html)
 
-- JAVA #3 - ADDITIONAL (non-obligatory)
+- JAVA #7 - ADDITIONAL (non-obligatory)
     - [Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
     - [The static modifier in Java](http://www.w3professors.com/java-methods/static-modifier-in-java/)
     - [Class Loaders in Java](https://www.baeldung.com/java-classloaders)
@@ -26,7 +26,7 @@
  ---
 
 ## `WATCHING`
-- JAVA #3 - ADDITIONAL video materials (non-obligatory)
+- JAVA #7 - ADDITIONAL video materials (non-obligatory)
     - [enum in Java](https://youtu.be/sI4utYmh7O4)
     - [Static Keyword](https://youtu.be/qRCEdWQ0f4Q)
     - [Class Loading and Class Initialization](https://youtu.be/7bFn3kcQYCc)

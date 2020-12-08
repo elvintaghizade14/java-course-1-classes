@@ -1,7 +1,7 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
 ## `READING`
-- JAVA #3 - BASIC (obligatory)
+- JAVA #6 - BASIC (obligatory)
     - [Classes](https://www.geeksforgeeks.org/classes-objects-java/)
     - [The Object class and it's methods](https://www.geeksforgeeks.org/object-class-in-java/)
     - [Access modifiers in Java](https://www.geeksforgeeks.org/access-modifieers-java/)
@@ -11,7 +11,7 @@
     - [Guide to the this Java Keyword](https://www.baeldung.com/java-this)
     - [Java Getter and Setter Tutorial - from Basics to Best Practices](https://www.codejava.net/coding/java-getter-and-setter-tutorial-from-basics-to-best-practices)
 
-- JAVA #3 - ADDITIONAL (non-obligatory)
+- JAVA #6 - ADDITIONAL (non-obligatory)
     - [Java object size](https://www.baeldung.com/java-size-of-object)
     - [Top 20 Java Interview Questions on Constructors](http://www.instanceofjava.com/2015/04/java-interview-questions-on-constructors.html)
     - [Difference between super() and this() in java](https://www.geeksforgeeks.org/difference-super-java/)
@@ -22,7 +22,7 @@
 ---
 
 ## `WATCHING`
-- JAVA #3 - ADDITIONAL video materials (non-obligatory)
+- JAVA #6 - ADDITIONAL video materials (non-obligatory)
     - [Classes and Objects](https://youtu.be/8yjkWGRlUmY)
     - [Constructors](https://youtu.be/tPFuVRbUTwA)
     - [Overriding equals and hashCode in Java](https://youtu.be/7V3589CReug)

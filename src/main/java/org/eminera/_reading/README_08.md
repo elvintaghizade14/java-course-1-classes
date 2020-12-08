@@ -1,14 +1,14 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
 ## `READING`
-- JAVA #3 - BASIC (obligatory)
+- JAVA #8 - BASIC (obligatory)
     - [What Are OOP Concepts in Java?](https://stackify.com/oops-concepts-in-java/)
     - [Java inheritance](https://www.w3schools.com/java/java_inheritance.asp)
     - [Abstract classes & methods](https://idratherbewriting.com/java-abstract-methods/)
     - [Java Interfaces](http://tutorials.jenkov.com/java/interfaces.html)
     - [Default method and static method](https://beginnersbook.com/2017/10/java-8-interface-changes-default-method-and-static-method/)
 
-- JAVA #3 - ADDITIONAL (non-obligatory)
+- JAVA #8 - ADDITIONAL (non-obligatory)
     - [SOLID Is OOP for Dummies](https://dzone.com/articles/solid-is-oop-for-dummies)
     - [All About Overriding in Java](https://dzone.com/articles/all-about-overriding-in-java)
     - [Difference between Abstract Class and Interface in Java](https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/)
@@ -18,7 +18,7 @@
  ---
 
 ## `WATCHING`
-- JAVA #3 - ADDITIONAL video materials (non-obligatory)
+- JAVA #8 - ADDITIONAL video materials (non-obligatory)
     - [Object-oriented Programming in 7 minutes](https://youtu.be/pTB0EiLXUC8)
     - [Introduction of Inheritance in Java with Example](https://youtu.be/7dwBc-ZZEYg)
     - [Polymorphism in Java](https://youtu.be/AmdgVatPL9k)

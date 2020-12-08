@@ -1,14 +1,14 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
 ## `READING`
-- JAVA #3 - BASIC (obligatory)
+- JAVA #4 - BASIC (obligatory)
     - [Methods in Java](https://www.geeksforgeeks.org/methods-in-java/)
     - [How to Use methods that Take Parameters in Java](https://www.dummies.com/programming/java/how-to-use-methodsthat-take-parameters-in-java)
     - [Returning a value from a method](https://docs.oracle.com/javase/tutorial/java/javaOO/returnvalue.html)
     - [Parameter Passing Mechanism in Java](https://www.baeldung.com/java-pass-by-valueor-pass-by-reference)
     
 ## `WATCHING`
-- JAVA #3 - ADDITIONAL video materials (non-obligatory)
+- JAVA #4 - ADDITIONAL video materials (non-obligatory)
     - [Passing Parameters](https://www.youtube.com/watch?v=M64H5gYIto8)
     - [Methods in Java](https://youtu.be/yi0vT3M3gCE)
 ---

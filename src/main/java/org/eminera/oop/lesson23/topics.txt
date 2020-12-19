@@ -1,0 +1,11 @@
+Java 8:
+    - try-with-resources
+    - Binary file write/read
+    - Array & ArrayList (Collections in DS&A section)
+    - Generics
+    - Optional
+    - Lambda
+    - Stream
+    - Iterator & Iterables
+    - Comparator & Comparable
+    - Others

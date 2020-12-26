@@ -1,0 +1,13 @@
+ - Functional Programming (FP)
+ - Java 8:
+    - Generics
+    - Optional
+    - Lambda
+    - Stream
+    - Iterator & Iterables
+    - Comparator & Comparable
+    - Others
+
+    KISS
+        - Keep It Super Simple
+        - Keep it simple, stupid

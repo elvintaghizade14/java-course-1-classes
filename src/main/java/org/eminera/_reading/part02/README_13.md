@@ -12,7 +12,7 @@
     - [Quicksort algorithm](https://www.techiedelight.com/quicksort/)
 
 - JAVA #13 - ADDITIONAL (non-obligatory)
-    - [Time compleхity](https://en.wikipedia.org/wiki/Time_complexity)
+    - [Time complexity](https://en.wikipedia.org/wiki/Time_complexity)
     - [Algorithms: Binary Search](https://youtu.be/P3YID7liBug)
     - [What is binary search](https://www.youtube.com/watch?v=j5uXyPJ0Pew)
     - [Data Structures & Algorithm Basic Concepts](https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm)

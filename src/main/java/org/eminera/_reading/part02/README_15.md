@@ -21,7 +21,7 @@
 - JAVA #15 - ADDITIONAL video materials (non-obligatory)
     - [Data Structures: Linked Lists](https://youtu.be/njTh_OwMljA)
     - [Linked List in Java | Java Linked Explained | Data Structures Implementation | Edureka](https://youtu.be/giJimUEkI7U)
-    - [Data Structures: Stacks and Queues](https://youtu.be/wjI1WNcIntg)
+    - [Data Structures: Stacks & Queues](https://youtu.be/wjI1WNcIntg)
     - [Java Hash Table](https://youtu.be/B4vqVDeERhI)
 
 ---

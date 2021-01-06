@@ -12,7 +12,7 @@
 ## `WATCHING`
 
 - JAVA #14 - ADDITIONAL video materials (non-obligatory)
-    - [Algorithms: Bit Manipulation](https://youtu.be/NLKQEOgBAnw)
+    - [Algorithms: Bit Manipulations](https://youtu.be/NLKQEOgBAnw)
     - [Bit Manipulation](https://youtu.be/7jkIUgLC29I)
     - [Java Recursion](https://youtu.be/neuDuf_i8Sg)
     - [Java Tutorial For Beginners 30 Recursion in java](https://youtu.be/PfzsbUFVMLY)

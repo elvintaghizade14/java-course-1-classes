@@ -1,0 +1,2 @@
+save(List<? extends Student> list)
+save(List<? super Student> list)

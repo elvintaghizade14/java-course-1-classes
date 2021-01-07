@@ -1,0 +1,22 @@
+Bubble sort:
+    Worst case:     O(n) = n^2      (ich-che for-loop)
+    Optimized case: O(n) = n^2/2
+    Best case:      Ω(n) = n
+
+Insertion sort:
+    Worst case:     O(n) = n^2
+    Best case:      Ω(n) = n
+
+Selection sort:
+    Worst case:     O(n) = n^2
+    Best case:      Ω(n) = n^2
+
+Merge sort:
+    Worst case:     O(n) = n * log(n) (base = 2)
+    Best case:      Ω(n) = n * log(n) (base = 2)
+
+Quick sort:
+    Worst case:     O(n) = n^2
+    Best case:      Ω(n) = n * log(n) (base = 2)
+
+

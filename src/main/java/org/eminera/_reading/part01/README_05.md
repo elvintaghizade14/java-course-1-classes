@@ -43,4 +43,4 @@
 11. If an access modifier is missing from a class/method, then it has `...` type of an access modifier. 
 ---
 
-[`© Elvin Taghizade`](elvintaghiyev184@gmai.com)
+[`© Elvin Taghizade`](elvintaghiyev184@gmail.com)

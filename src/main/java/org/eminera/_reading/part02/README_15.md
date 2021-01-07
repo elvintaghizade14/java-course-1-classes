@@ -26,4 +26,4 @@
 
 ---
 
-[`© Elvin Taghizade`](elvintaghiyev184@gmai.com)
+[`© Elvin Taghizade`](elvintaghiyev184@gmail.com)

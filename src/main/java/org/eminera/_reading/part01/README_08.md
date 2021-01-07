@@ -59,4 +59,4 @@ void multiply(double a, double b);
 
 ---
 
-[`© Elvin Taghizade`](elvintaghiyev184@gmai.com)
+[`© Elvin Taghizade`](elvintaghiyev184@gmail.com)

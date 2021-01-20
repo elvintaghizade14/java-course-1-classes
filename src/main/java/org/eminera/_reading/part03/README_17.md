@@ -3,7 +3,7 @@
 
 ## `READING`
 
-- JAVA #16 - BASIC (obligatory)
+- JAVA #17 - BASIC (obligatory)
     - [Maven in 5 Minutes](http://people.apache.org/~ltheussl/maven-stage-site/guides/getting-started/maven-in-five-minutes.html)
     - [Introduction to Java Servlets](https://www.geeksforgeeks.org/introduction-java-servlets/)
     - [Server: Web vs. Application](https://www.javatpoint.com/server-web-vs-application)
@@ -11,7 +11,7 @@
     - [HTTP. Get vs. Post](https://www.javatpoint.com/get-vs-post)
     - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
-- JAVA #16 - ADDITIONAL (non-obligatory)
+- JAVA #17 - ADDITIONAL (non-obligatory)
     - [Introduction to Java Servlets](https://www.baeldung.com/intro-to-servlets)
     - [How to Register a Servlet in Java ](https://www.baeldung.com/register-servlet)
 
@@ -19,7 +19,7 @@
 
 ## `WATCHING`
 
-- JAVA #16 - ADDITIONAL video materials (non-obligatory)
+- JAVA #17 - ADDITIONAL video materials (non-obligatory)
     - [Working With Maven in IntelliJ IDEA](https://www.youtube.com/watch?v=pt3uB0sd5kY)
     - [Java Servlets Tutorial | Introduction to Servlets | Java Certification Training | Edureka](https://www.youtube.com/watch?v=ewiOaDitBBw)
     - [Basic concepts of web applications, how they work and the HTTP protocol](https://www.youtube.com/watch?v=RsQ1tFLwldY)

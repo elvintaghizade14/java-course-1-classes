@@ -3,7 +3,7 @@
 
 ## `READING`
 
-- JAVA #13 - BASIC (obligatory)
+- JAVA #16 - BASIC (obligatory)
     - [Introducing to JDBC](https://www.mysqltutorial.org/mysql-jdbc-tutorial/jdbc-overview/)
     - [What is JDBC?](https://www.tutorialspoint.com/jdbc/jdbc-quick-guide.htm)
     - [JDBC - Database Connections](https://www.tutorialspoint.com/jdbc/jdbc-db-connections.htm)
@@ -15,7 +15,7 @@
     - [ER Diagram Tutorial(with Example)](https://www.guru99.com/er-diagram-tutorial-dbms.html)
     - [Foreign Keys](https://dev.mysql.com/doc/refman/8.0/en/example-foreign-keys.html)
 
-- JAVA #13 - ADDITIONAL (non-obligatory)
+- JAVA #16 - ADDITIONAL (non-obligatory)
     - [SQL - Syntax](https://www.tutorialspoint.com/sql/sql-syntax.htm)
     - [Introduction to JDBC](https://www.baeldung.com/java-jdbc)
     - [GROUP BY](https://www.mysqltutorial.org/basic-mysql-tutorial-aspx/mysql-group-by/)
@@ -26,7 +26,7 @@
 
 ## `WATCHING`
 
-- JAVA #13 - ADDITIONAL video materials (non-obligatory)
+- JAVA #16 - ADDITIONAL video materials (non-obligatory)
     - [Java JDBC Introduction - Java Database Connectivity, Steps to Connect Database with Java](https://www.youtube.com/watch?v=lGNgS00nz_0)
     - [SQL DML Commands - Insert, Update and Delete with Examples](https://www.youtube.com/watch?v=XiKB5FHXsqw)
     - [SQL Aggregate Functions - SUM, AVG(n), COUNT, MIN, MAX Functions](https://www.youtube.com/watch?v=gGErRBYDzCs)

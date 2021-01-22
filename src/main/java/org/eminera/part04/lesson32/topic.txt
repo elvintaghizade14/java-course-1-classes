@@ -4,7 +4,7 @@ Web intro:
         – Response
     - Server
         - Jetty
-        - Tomcat server
+        - Tomcat
         - Glassfish
         - Grizzly
     - Servlet
@@ -14,4 +14,3 @@ Web intro:
     - CSS
     - JavaScript
     - jQuery
-

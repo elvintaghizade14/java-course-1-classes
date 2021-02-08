@@ -40,7 +40,7 @@ You can find ready HTML templates of all needed pages in the [templates](./templ
 27. Use Freemarker template to output HTML pages
 28. Handle POST method from the login page that will allow the user to log into the app. Store the data about the current user in cookies
 29. Create an HttpFilter, which will redirect the non-logged in user to the login page
-30. Add a posibility to log in from different accounts. Store each user's likes separately
+30. Add a possibility to log in from different accounts. Store each user's likes separately
 31. Use remote database
 32. Assemble the project into the executable JAR archive. Test locally that it is working
 33. Deploy the project on Heroku (or AWS)

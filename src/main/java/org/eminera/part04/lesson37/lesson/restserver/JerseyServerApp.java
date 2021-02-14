@@ -17,5 +17,6 @@ public class JerseyServerApp {
             URI.create("http://localhost:8082"),
             config
     );
+    server.start();
   }
 }

@@ -14,7 +14,7 @@ public class JerseyServerApp {
             .packages("lesson37.lesson.restserver.resources");
     config.register(BookService.class);
     HttpServer server = GrizzlyHttpServerFactory.createHttpServer(
-            URI.create("http://localhost:8082"),
+            URI.create("http://127.0.0.1:8081/shop"),
             config
     );
     server.start();

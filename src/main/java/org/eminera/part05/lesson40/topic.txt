@@ -1,0 +1,7 @@
+@SpringBootApplication
+@Controller
+@RequestMapping
+@RequestBody
+@RequestParam
+@ResponseBody
+@PathVariable

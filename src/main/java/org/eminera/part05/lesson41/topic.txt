@@ -1,0 +1,2 @@
+- client 7 server side coding in spring
+- spring data jpa, h2 database

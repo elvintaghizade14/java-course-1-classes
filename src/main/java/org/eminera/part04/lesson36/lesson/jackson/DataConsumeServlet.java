@@ -10,16 +10,16 @@ import java.io.BufferedReader;
 import java.io.IOException;
 
 public class DataConsumeServlet extends HttpServlet {
-  private static final ObjectMapper MAPPER = new ObjectMapper();
+    private static final ObjectMapper MAPPER = new ObjectMapper();
 
 
-  @Override
-  protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException {
-    BufferedReader body = req.getReader();
+    @Override
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException {
+        BufferedReader body = req.getReader();
 
-    Student student = MAPPER.readValue(body, Student.class);
+        Student student = MAPPER.readValue(body, Student.class);
 
-    System.out.println(student);
-  }
+        System.out.println(student);
+    }
 
 }

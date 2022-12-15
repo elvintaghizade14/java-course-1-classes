@@ -10,23 +10,23 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class StaticServlet extends HttpServlet {
-  private final String subPath;
+    private final String subPath;
 
-  public StaticServlet(String subPath) {
-    this.subPath = subPath;
-  }
-
-  @Override
-  protected void doGet(HttpServletRequest req, HttpServletResponse resp) {
-    final String basePath = "src/main/java/org/eminera/part04/lesson33/resourse";
-    final String filename = req.getPathInfo();
-
-    Path path = Paths.get(basePath, subPath, filename);
-    try(OutputStream os = resp.getOutputStream()) {
-      Files.copy(path, os);
-    } catch (IOException e) {
-      e.printStackTrace();
+    public StaticServlet(String subPath) {
+        this.subPath = subPath;
     }
 
-  }
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) {
+        final String basePath = "src/main/java/org/eminera/part04/lesson33/resourse";
+        final String filename = req.getPathInfo();
+
+        Path path = Paths.get(basePath, subPath, filename);
+        try (OutputStream os = resp.getOutputStream()) {
+            Files.copy(path, os);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
 }
